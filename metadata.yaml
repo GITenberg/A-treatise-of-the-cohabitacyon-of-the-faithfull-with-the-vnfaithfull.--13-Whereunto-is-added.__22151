@@ -40,6 +40,8 @@ creator:
     gutenberg_agent_id: '25144'
     url: http://www.gutenberg.org/2009/agents/25144
 description: Possibly translated by Thomas Becon.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22151#A-treatise-of-the-cohabitacyon-of-the-faithfull-with-the-vnfaithfull.--13-Whereunto-is-added._
 gutenberg_issued: '2007-07-26'
 gutenberg_type: Text
 identifiers:
