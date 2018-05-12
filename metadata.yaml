@@ -1,0 +1,57 @@
+_repo: A-treatise-of-the-cohabitacyon-of-the-faithfull-with-the-vnfaithfull.--13-Whereunto-is-added.__22151
+_version: 0.1.0
+alternative_title: Treatise of the Cohabitation Of the Faithful with the Unfaithful
+  by Peter Martyr; Wherunto is Added A Sermon made of the Confessing of Christ and
+  His Gospel and of the Denying of the same, by Henry Bullinger
+contributor:
+  translator:
+    agent_name: Becon, Thomas
+    aliases:
+    - Beacon, Thomas
+    - Basille, T. (Theodore)
+    - Basille, Theodore
+    - Beacon, T. (Thomas)
+    - Becon, T. (Thomas)
+    birthdate: 1512
+    deathdate: 1567
+    gutenberg_agent_id: '36490'
+    url: http://www.gutenberg.org/2009/agents/36490
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Vermigli, Pietro Martire
+    aliases:
+    - Vermigli, Peter Martyr
+    - Vermilius, Petrus Martyr
+    - Martyr, Peter
+    birthdate: 1499
+    deathdate: 1562
+    gutenberg_agent_id: '25143'
+    url: http://www.gutenberg.org/2009/agents/25143
+  - agent_name: Bullinger, Heinrich
+    aliases:
+    - Bullinger, Henrik
+    - Bulingerus, Heinricus
+    - Bullinger, Henry
+    birthdate: 1504
+    deathdate: 1575
+    gutenberg_agent_id: '25144'
+    url: http://www.gutenberg.org/2009/agents/25144
+description: Possibly translated by Thomas Becon.
+gutenberg_issued: '2007-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Controversial literature -- Early works to 1800'
+- !lcc 'BX'
+title: "A treatise of the cohabitacyon of the faithfull with the vnfaithfull.\r\n\
+  Whereunto is added. A sermon made of the confessing of Christe and his gospell,\
+  \ and of the denyinge of the same."
+url: http://www.gutenberg.org/ebooks/22151
